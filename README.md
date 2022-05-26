@@ -1,0 +1,3 @@
+- SOBRE MIM 
+-  oi,meu nome é gabbuenoo :)
+-  sou aluna do 1° ano do ensino médio e estou iniciando na programação !!
